@@ -9,3 +9,4 @@ requests
 autopep8
 six
 docker-compose
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
